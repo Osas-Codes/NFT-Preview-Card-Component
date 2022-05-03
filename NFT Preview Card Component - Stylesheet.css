@@ -42,7 +42,7 @@ body {
 
     
     .mobile-look {
-     Margin-top: 30rem;
+     Margin: auto auto;
     }
 }
 
@@ -70,6 +70,7 @@ main {
                          "footer-section";
     
     margin: 4rem auto;
+    Margin-top: 30rem;
     border-radius: 1rem;
 } 
 
