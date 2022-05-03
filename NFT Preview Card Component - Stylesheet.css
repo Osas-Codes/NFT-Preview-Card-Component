@@ -55,6 +55,7 @@ main {
     flex-direction: row;
     justify-content: center;
     align-content: center;
+    position: relative;
 } 
 
 
@@ -69,9 +70,10 @@ main {
                          "hr"
                          "footer-section";
     
-    margin: auto auto;
+    margin: 4rem auto;
     border-radius: 1rem;
-
+    Position: absolute;
+    Top:0;
 } 
 
 
