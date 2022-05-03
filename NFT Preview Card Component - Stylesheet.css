@@ -39,8 +39,10 @@ body {
         height: 100vh;
         margin: auto;
     }
-    main {
-        Margin: auto;
+
+    
+    .mobile-look {
+        Margin: 25rem auto;
     }
     
 
@@ -71,7 +73,6 @@ main {
     
     margin: 4rem auto;
     border-radius: 1rem;
-    Top:0;
 } 
 
 
