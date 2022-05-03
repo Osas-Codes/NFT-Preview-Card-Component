@@ -153,6 +153,7 @@ main .main-image-container:active {
 
 .text-section__1 a:active {
     color: cyan;
+    background: hsl(216, 50%, 16%);
 }
 
 
