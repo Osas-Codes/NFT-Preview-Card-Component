@@ -68,7 +68,8 @@ main {
                          "text-section"
                          "hr"
                          "footer-section";
-    Justify-self: center;
+    Display: inline-block;
+    Vertically-align: middle;
     
     margin: 4rem auto;
     
