@@ -68,7 +68,7 @@ main {
                          "text-section"
                          "hr"
                          "footer-section";
-    Align-self: center;
+    Justify-self: center;
     
     margin: 4rem auto;
     
