@@ -68,11 +68,9 @@ main {
                          "text-section"
                          "hr"
                          "footer-section";
-    Display: inline-block;
-    Vertically-align: middle;
     
     margin: 4rem auto;
-    
+    Margin-top: 16rem;
     border-radius: 1rem;
 } 
 
