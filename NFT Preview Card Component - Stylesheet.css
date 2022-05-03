@@ -36,10 +36,10 @@ body {
 @media (min-width:23.4375rem) {
     body {
         width: 375px;
-        height: 100vh;
+        height: auto;
         margin: auto;
     }
-    Body main {
+    main {
         Margin: auto;
     }
     
