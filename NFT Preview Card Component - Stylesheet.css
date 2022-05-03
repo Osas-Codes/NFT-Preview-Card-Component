@@ -149,7 +149,8 @@ main {
 
 .text-section__1 a:active {
     color: cyan;
-    
+    outline: none;
+    background-color: none;
 }
 
 
@@ -204,4 +205,6 @@ hr {
 
 .author-text a:active {
     color: cyan;
+    outline: none;
+    background-color: none;
 }
