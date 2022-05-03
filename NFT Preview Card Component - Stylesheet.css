@@ -39,6 +39,11 @@ body {
         height: 100vh;
         margin: auto;
     }
+
+    
+    .mobile-look {
+     Margin-top: 30rem;
+    }
 }
 
 
@@ -64,7 +69,7 @@ main {
                          "hr"
                          "footer-section";
     
-    margin-top: 30rem auto;
+    margin: 4rem auto;
     border-radius: 1rem;
 } 
 
