@@ -60,7 +60,7 @@ main {
 
 .mobile-look {
     background-color: hsl(216, 50%, 16%);
-    height: 100vh;
+    height: auto;
     width: 90%;
     display: grid;
     grid-template-rows: auto auto auto auto;
@@ -68,6 +68,7 @@ main {
                          "text-section"
                          "hr"
                          "footer-section";
+    Align-self: center;
     
     margin: 4rem auto;
     Margin-top: 16rem;
