@@ -110,10 +110,6 @@ main {
 }
 
 
-main .main-image-container:active {
-    background-color: hsl(216, 50%, 16%);
-}
-
 
 .text-section {
     grid-area: text-section;
@@ -153,7 +149,7 @@ main .main-image-container:active {
 
 .text-section__1 a:active {
     color: cyan;
-    background: hsl(216, 50%, 16%);
+    
 }
 
 
